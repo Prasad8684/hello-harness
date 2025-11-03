@@ -1,9 +1,12 @@
 {
   "name": "hello-harness",
   "version": "1.0.0",
+  "description": "Simple Harness CI/CD demo app - Nov 2025",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
-
